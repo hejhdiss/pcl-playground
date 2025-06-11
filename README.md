@@ -2,6 +2,8 @@
 
 This is the **online playground** for [PCL](https://github.com/hejhdiss/pcl) – a minimal experimental compiler that lets you write and execute both Python and C code in a single `.pcl` file.
 
+🧪 Try it live: [hejhdiss.github.io/pcl-playground/](https://hejhdiss.github.io/pcl-playground/)
+
 ## Example Code
 
 ```pcl
